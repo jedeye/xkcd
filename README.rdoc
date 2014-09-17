@@ -1,0 +1,5 @@
+A modification of the dilbert webcomic crawler designed to get all the XKCD comics and save them as their number. 
+
+To run just type "python xkcd.py" from the command line. CAUTION: It will dump ~1500 png's in the folder you are running from.
+
+It assumes that there are < 10,000 comics, which should be accurate for the next decade or so.
